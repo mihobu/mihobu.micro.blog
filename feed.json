@@ -7,12 +7,97 @@
 	"items": [
 		
 			{
+				"id": "http://mihobu.micro.blog/2023/12/12/wrote-some-thoughts.html",
+				
+				"content_html": "<p>Wrote some thoughts on depth of field for my blog today. Nothing earth shattering, just how I came to understand it a little more intuitively thanks to a 30-year-old magazine article.</p>\n<p><a href=\"https://mihobu.lol/2023/12/on-the-concept-of-depth-of-field\">mihobu.lol/2023/12/o&hellip;</a></p>\n",
+				"content_text": "Wrote some thoughts on depth of field for my blog today. Nothing earth shattering, just how I came to understand it a little more intuitively thanks to a 30-year-old magazine article.\n\n[mihobu.lol/2023/12/o...](https://mihobu.lol/2023/12/on-the-concept-of-depth-of-field)\n",
+				"date_published": "2023-12-12T19:54:41-05:00",
+				"url": "https://micro.mihobu.lol/2023/12/12/wrote-some-thoughts.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://mihobu.micro.blog/2023/12/12/im-not-usually.html",
+				
+				"content_html": "<p>I&rsquo;m not usually awake past midnight but I am tonight. Was up late finishing up an orientation course for a new job I&rsquo;ll be starting. I&rsquo;ll share more details soon.</p>\n",
+				"content_text": "I'm not usually awake past midnight but I am tonight. Was up late finishing up an orientation course for a new job I'll be starting. I'll share more details soon.\n",
+				"date_published": "2023-12-12T00:11:19-05:00",
+				"url": "https://micro.mihobu.lol/2023/12/12/im-not-usually.html"
+			},
+			{
+				"id": "http://mihobu.micro.blog/2023/12/11/heres-my-week.html",
+				
+				"content_html": "<p>Here’s my week 49 update: Celebrating the Columbus Crew, Huntertones, Mike the HVAC Guy, and More</p>\n<p>#Weeknotes</p>\n<p><a href=\"https://mihobu.lol/2023/12/weeknotes-week-49-2023\">mihobu.lol/2023/12/w&hellip;</a></p>\n",
+				"content_text": "Here’s my week 49 update: Celebrating the Columbus Crew, Huntertones, Mike the HVAC Guy, and More\r\n\r\n#Weeknotes\r\n\r\n[mihobu.lol/2023/12/w...](https://mihobu.lol/2023/12/weeknotes-week-49-2023)\n",
+				"date_published": "2023-12-11T20:43:16-05:00",
+				"url": "https://micro.mihobu.lol/2023/12/11/heres-my-week.html",
+				"tags": ["Weeknotes"]
+			},
+			{
+				"id": "http://mihobu.micro.blog/2023/12/11/if-you-havent.html",
+				
+				"content_html": "<p>If you haven’t heard the Huntertones you should give them a listen. We had the good fortune to see them live again last night here in Columbus at a great little venue called Natalie’s. Such energy! Christmas music and Beethoven on the beatbox and sousaphone? Don’t mind if I do.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "If you haven’t heard the Huntertones you should give them a listen. We had the good fortune to see them live again last night here in Columbus at a great little venue called Natalie’s. Such energy! Christmas music and Beethoven on the beatbox and sousaphone? Don’t mind if I do.\n\n<img src=\"uploads/2023/0f2b322ee3.png\" width=\"600\" height=\"399\" alt=\"The Huntertones are Dan White (saxophones), Jon Lampley (trumpet and sousaphone​),  Chris Ott (trombone and beatbox), Adam DeAscentis (bass), John Hubbell (drums), Josh Hill (guitar)\"><img src=\"uploads/2023/88e1e7cf29.png\" width=\"600\" height=\"399\" alt=\"Jon, Adam, John, and Josh jam as Chris and Dan look on\"><img src=\"uploads/2023/dscf0144.png\" width=\"600\" height=\"399\" alt=\"three male musicians on stage, one beatboxing, one playing saxophone, and one playing sousaphone\"><img src=\"uploads/2023/2e400b6fd8.png\" width=\"600\" height=\"399\" alt=\"The Huntertones performing on stage, in a long shot that includes part of the audience\">\n",
+				"date_published": "2023-12-11T10:08:19-05:00",
+				"url": "https://micro.mihobu.lol/2023/12/11/if-you-havent.html"
+			},
+			{
+				"id": "http://mihobu.micro.blog/2023/12/11/im-not-naming.html",
+				
+				"content_html": "<p>I’m not naming any names, I’m just saying that I appreciate Mona’s “turn off reposts for user” feature.</p>\n",
+				"content_text": "I’m not naming any names, I’m just saying that I appreciate Mona’s “turn off reposts for user” feature.\n",
+				"date_published": "2023-12-11T09:48:17-05:00",
+				"url": "https://micro.mihobu.lol/2023/12/11/im-not-naming.html"
+			},
+			{
+				"id": "http://mihobu.micro.blog/2023/12/10/wilfried-nancy-is.html",
+				
+				"content_html": "<p>Wilfried Nancy is the hero of Columbus today ⭐️⭐️⭐️ #MLScup #Crew96</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Wilfried Nancy is the hero of Columbus today ⭐️⭐️⭐️ #MLScup #Crew96\n\n<img src=\"https://cdn.uploads.micro.blog/132676/2023/7bedf477e4.jpg\" width=\"600\" height=\"400\" alt=\"Columbus Crew head coach Wilfried Nancy hoists the MLS Cup trophy\">\n",
+				"date_published": "2023-12-10T11:30:19-05:00",
+				"url": "https://micro.mihobu.lol/2023/12/10/wilfried-nancy-is.html"
+			},
+			{
+				"id": "http://mihobu.micro.blog/2023/12/09/the-crew-win.html",
+				
+				"content_html": "<p>⚽️ The Crew win! #MLScup champs!!!!</p>\n",
+				"content_text": "⚽️ The Crew win! #MLScup champs!!!!\n",
+				"date_published": "2023-12-09T18:08:34-05:00",
+				"url": "https://micro.mihobu.lol/2023/12/09/the-crew-win.html"
+			},
+			{
+				"id": "http://mihobu.micro.blog/2023/12/09/happy-the-crew.html",
+				
+				"content_html": "<p>⚽️ Happy the Crew are up. I hope they can hang on through the second half. #Crew96 #MLScup</p>\n",
+				"content_text": "⚽️ Happy the Crew are up. I hope they can hang on through the second half. #Crew96 #MLScup\n",
+				"date_published": "2023-12-09T17:17:05-05:00",
+				"url": "https://micro.mihobu.lol/2023/12/09/happy-the-crew.html"
+			},
+			{
+				"id": "http://mihobu.micro.blog/2023/12/08/potentially-useful-thing.html",
+				
+				"content_html": "<p>Potentially useful thing for #weeknotes authors: the 2024 version of my printable one-page ISO week calendar is now available for download.</p>\n<p><a href=\"https://mihobu.url.lol/isocal2024\">mihobu.url.lol/isocal202&hellip;</a></p>\n",
+				"content_text": "Potentially useful thing for #weeknotes authors: the 2024 version of my printable one-page ISO week calendar is now available for download.\r\n\r\n[mihobu.url.lol/isocal202...](https://mihobu.url.lol/isocal2024)\r\n\r\n",
+				"date_published": "2023-12-08T14:04:44-05:00",
+				"url": "https://micro.mihobu.lol/2023/12/08/potentially-useful-thing.html",
+				"tags": ["Weeknotes"]
+			},
+			{
+				"id": "http://mihobu.micro.blog/2023/12/08/what-is-the.html",
+				
+				"content_html": "<p>What is the maximum photo size you find works well for cross-posting from micro.blog to Mastodon? Is there a known/published maximum, or is it a trial-and-error kind of situation?</p>\n",
+				"content_text": "What is the maximum photo size you find works well for cross-posting from micro.blog to Mastodon? Is there a known/published maximum, or is it a trial-and-error kind of situation?\n",
+				"date_published": "2023-12-08T10:48:43-05:00",
+				"url": "https://micro.mihobu.lol/2023/12/08/what-is-the.html",
+				"tags": ["Photography"]
+			},
+			{
 				"id": "http://mihobu.micro.blog/2023/12/08/playing-around-with.html",
 				
 				"content_html": "<p>Playing around with this XF18mmF2 R (28mm equiv) lens that I picked up used.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Playing around with this XF18mmF2 R (28mm equiv) lens that I picked up used.\n\n<img src=\"uploads/2023/dscf0091.png\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2023/dscf0096.png\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2023/dscf0097.png\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2023/dscf0073.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Playing around with this XF18mmF2 R (28mm equiv) lens that I picked up used.\n\n<img src=\"https://cdn.uploads.micro.blog/132676/2023/dscf0091.png\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/132676/2023/dscf0096.png\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/132676/2023/dscf0097.png\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/132676/2023/dscf0073.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-08T10:38:54-05:00",
-				"url": "https://micro.mihobu.lol/2023/12/08/playing-around-with.html"
+				"url": "https://micro.mihobu.lol/2023/12/08/playing-around-with.html",
+				"tags": ["Photography"]
 			},
 			{
 				"id": "http://mihobu.micro.blog/2023/12/07/ive-been-preferring.html",
@@ -42,7 +127,7 @@
 				"id": "http://mihobu.micro.blog/2023/12/06/picked-up-a.html",
 				
 				"content_html": "<p>Picked up a pair of these trendy boots #blunnies</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Picked up a pair of these trendy boots #blunnies\n\n<img src=\"uploads/2023/img-0672.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Picked up a pair of these trendy boots #blunnies\n\n<img src=\"https://cdn.uploads.micro.blog/132676/2023/img-0672.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-06T08:46:12-05:00",
 				"url": "https://micro.mihobu.lol/2023/12/06/picked-up-a.html",
 				"tags": ["Photography"]
@@ -595,8 +680,8 @@
 			{
 				"id": "http://mihobu.micro.blog/2023/10/11/fried-crab-flavor.html",
 				"title": "Fried Crab Flavor Lay’s",
-				"content_html": "<p>Not an everyday flavor experience for me. Not bad, but not exactly good\neither.</p>\n<p><img src=\"https://micro.mihobu.lol/uploads/2023/4f9b377a10.jpg\" alt=\"\"></p>\n",
-				"content_text": "\n\nNot an everyday flavor experience for me. Not bad, but not exactly good\neither.\n\n\n\n![](https://micro.mihobu.lol/uploads/2023/4f9b377a10.jpg)\n",
+				"content_html": "<p>Not an everyday flavor experience for me. Not bad, but not exactly good\neither.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/132676/2023/4f9b377a10.jpg\" alt=\"\"></p>\n",
+				"content_text": "\n\nNot an everyday flavor experience for me. Not bad, but not exactly good\neither.\n\n\n\n![](https://cdn.uploads.micro.blog/132676/2023/4f9b377a10.jpg)\n",
 				"date_published": "2023-10-11T08:38:27-05:00",
 				"url": "https://micro.mihobu.lol/2023/10/11/fried-crab-flavor.html"
 			},
@@ -2067,8 +2152,8 @@
 			{
 				"id": "http://mihobu.micro.blog/2023/06/27/i-wrote-a.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n<p><img src=\"https://micro.mihobu.lol/uploads/2023/1e43de2a39.jpg\" alt=\"\"></p>\n",
-				"content_text": "\n<p>I wrote a new blog post with some more detail about how I (semi-)automated my omg.lol Now Page. Just in case you’re interested. <a href=\"https://social.lol/tags/omglol\" class=\"mention hashtag\" rel=\"tag\">#<span>omglol</span></a> <a href=\"https://social.lol/tags/automation\" class=\"mention hashtag\" rel=\"tag\">#<span>automation</span></a> <a href=\"https://social.lol/tags/cloud\" class=\"mention hashtag\" rel=\"tag\">#<span>cloud</span></a> <a href=\"https://social.lol/tags/AWS\" class=\"mention hashtag\" rel=\"tag\">#<span>AWS</span></a></p><p><a href=\"https://blog.mihobu.lol/2023/06/automating-my-now-page-update-3\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.mihobu.lol/2023/06/automa</span><span class=\"invisible\">ting-my-now-page-update-3</span></a></p>\n\n![](https://micro.mihobu.lol/uploads/2023/1e43de2a39.jpg)\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p><img src=\"https://cdn.uploads.micro.blog/132676/2023/1e43de2a39.jpg\" alt=\"\"></p>\n",
+				"content_text": "\n<p>I wrote a new blog post with some more detail about how I (semi-)automated my omg.lol Now Page. Just in case you’re interested. <a href=\"https://social.lol/tags/omglol\" class=\"mention hashtag\" rel=\"tag\">#<span>omglol</span></a> <a href=\"https://social.lol/tags/automation\" class=\"mention hashtag\" rel=\"tag\">#<span>automation</span></a> <a href=\"https://social.lol/tags/cloud\" class=\"mention hashtag\" rel=\"tag\">#<span>cloud</span></a> <a href=\"https://social.lol/tags/AWS\" class=\"mention hashtag\" rel=\"tag\">#<span>AWS</span></a></p><p><a href=\"https://blog.mihobu.lol/2023/06/automating-my-now-page-update-3\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.mihobu.lol/2023/06/automa</span><span class=\"invisible\">ting-my-now-page-update-3</span></a></p>\n\n![](https://cdn.uploads.micro.blog/132676/2023/1e43de2a39.jpg)\n",
 				"date_published": "2023-06-27T10:01:09-05:00",
 				"url": "https://micro.mihobu.lol/2023/06/27/i-wrote-a.html"
 			},
