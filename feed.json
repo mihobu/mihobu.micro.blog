@@ -7,6 +7,64 @@
 	"items": [
 		
 			{
+				"id": "http://mihobu.micro.blog/2023/12/25/happy-christmas-im.html",
+				
+				"content_html": "<p>☕️🎄🌦️ Happy Christmas! I’m up early, drinking my coffee, waiting for everyone to wake up. Watching the sun rise and expacting a high temp of 61°F today (with rain likely). Weird weather for December 25th.</p>\n",
+				"content_text": "☕️🎄🌦️ Happy Christmas! I’m up early, drinking my coffee, waiting for everyone to wake up. Watching the sun rise and expacting a high temp of 61°F today (with rain likely). Weird weather for December 25th.\n",
+				"date_published": "2023-12-25T08:06:38-05:00",
+				"url": "https://micro.mihobu.lol/2023/12/25/happy-christmas-im.html"
+			},
+			{
+				"id": "http://mihobu.micro.blog/2023/12/24/good-morning-happy.html",
+				
+				"content_html": "<p>Good morning! Happy Christmas Eve to those who celebrate. It is early here and still dark out, but the coffee is made, everyone else is still asleep, I just finished eating  a gooey cinnamon roll, and now I’m enjoying our tree and scrolling around the Intert00bz. 🎄</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Good morning! Happy Christmas Eve to those who celebrate. It is early here and still dark out, but the coffee is made, everyone else is still asleep, I just finished eating  a gooey cinnamon roll, and now I’m enjoying our tree and scrolling around the Intert00bz. 🎄\n\n<img src=\"uploads/2023/3dc32ab0cf.jpg\" width=\"600\" height=\"600\" alt=\"Christmas tree decorated with colored lights and snowman topper\">\n",
+				"date_published": "2023-12-24T06:04:42-05:00",
+				"url": "https://micro.mihobu.lol/2023/12/24/good-morning-happy.html"
+			},
+			{
+				"id": "http://mihobu.micro.blog/2023/12/21/better-late-than.html",
+				
+				"content_html": "<p>✈️ Better late than never? Finally got around to posting my #weeknotes for Week 50, which include highlights from our trip to New York City.</p>\n<p><a href=\"https://mihobu.lol/2023/12/weeknotes-week-50-2023\">mihobu.lol/2023/12/w&hellip;</a></p>\n",
+				"content_text": "✈️ Better late than never? Finally got around to posting my #weeknotes for Week 50, which include highlights from our trip to New York City.\r\n\r\n[mihobu.lol/2023/12/w...](https://mihobu.lol/2023/12/weeknotes-week-50-2023)\n",
+				"date_published": "2023-12-21T15:52:37-05:00",
+				"url": "https://micro.mihobu.lol/2023/12/21/better-late-than.html",
+				"tags": ["Weeknotes"]
+			},
+			{
+				"id": "http://mihobu.micro.blog/2023/12/21/thats-the-second.html",
+				
+				"content_html": "<p>That’s the second day in a row that I’ve tried to make my first group using one item from each group.</p>\n<p>🟦🟩🟨🟪\n🟩🟩🟩🟩\n🟪🟪🟪🟪\n🟨🟨🟨🟨\n🟦🟦🟦🟦</p>\n<p><a href=\"https://www.nytimes.com/games/connections\">Connections</a> Puzzle #193</p>\n",
+				"content_text": "That’s the second day in a row that I’ve tried to make my first group using one item from each group.\n\n🟦🟩🟨🟪\n🟩🟩🟩🟩\n🟪🟪🟪🟪\n🟨🟨🟨🟨\n🟦🟦🟦🟦\n\n[Connections](https://www.nytimes.com/games/connections) Puzzle #193\n",
+				"date_published": "2023-12-21T06:12:40-05:00",
+				"url": "https://micro.mihobu.lol/2023/12/21/thats-the-second.html"
+			},
+			{
+				"id": "http://mihobu.micro.blog/2023/12/20/did-you-know.html",
+				
+				"content_html": "<p>🍽️ Did you know that Nordstrom has a café? If not you should run right out and treat yourself to a nice lunch. Today I enjoyed a delightful French Dip sandwich and some sparkling water. Right there in the middle of the work day!</p>\n",
+				"content_text": "🍽️ Did you know that Nordstrom has a café? If not you should run right out and treat yourself to a nice lunch. Today I enjoyed a delightful French Dip sandwich and some sparkling water. Right there in the middle of the work day!\n",
+				"date_published": "2023-12-20T12:00:14-05:00",
+				"url": "https://micro.mihobu.lol/2023/12/20/did-you-know.html"
+			},
+			{
+				"id": "http://mihobu.micro.blog/2023/12/19/photo-envy-or.html",
+				
+				"content_html": "<p>Photo Envy (or, Why don’t my photos look as good as the ones shot on the Leica Q?)</p>\n<p><a href=\"https://mihobu.lol/2023/12/photo-envy\">mihobu.lol/2023/12/p&hellip;</a></p>\n",
+				"content_text": "Photo Envy (or, Why don’t my photos look as good as the ones shot on the Leica Q?)\r\n\r\n[mihobu.lol/2023/12/p...](https://mihobu.lol/2023/12/photo-envy)\n",
+				"date_published": "2023-12-19T16:07:42-05:00",
+				"url": "https://micro.mihobu.lol/2023/12/19/photo-envy-or.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://mihobu.micro.blog/2023/12/19/bandwagon-hopper-that.html",
+				
+				"content_html": "<p>Bandwagon hopper that I am (following <a href=\"https://mb.esamecar.net/2023/12/13/state-of-app.html\">Marco</a>, <a href=\"https://rknight.me/subscriptions/\">Robb</a>, <a href=\"https://maique.eu/2023/12/17/subscriptions-edition.html\">Maique</a>, <a href=\"https://maique.eu/2023/12/17/subscriptions-edition.html\">Otávio</a>, and others who went before) I’ve added a <a href=\"https://mihobu.lol/subscriptions\">subscriptions status</a> page to my blog.</p>\n<p><a href=\"https://micro.blog/otaviocc\">@otaviocc</a> <a href=\"https://micro.blog/maique\">@maique</a> <a href=\"https://micro.blog/robb@social.lol\">@robb@social.lol</a> <a href=\"https://micro.blog/esamecar\">@esamecar</a></p>\n",
+				"content_text": "Bandwagon hopper that I am (following [Marco](https://mb.esamecar.net/2023/12/13/state-of-app.html), [Robb](https://rknight.me/subscriptions/), [Maique](https://maique.eu/2023/12/17/subscriptions-edition.html), [Otávio](https://maique.eu/2023/12/17/subscriptions-edition.html), and others who went before) I’ve added a [subscriptions status](https://mihobu.lol/subscriptions) page to my blog.\r\n\r\n[@otaviocc](https://micro.blog/otaviocc) [@maique](https://micro.blog/maique) [@robb@social.lol](https://micro.blog/robb@social.lol) [@esamecar](https://micro.blog/esamecar)\n",
+				"date_published": "2023-12-19T11:29:25-05:00",
+				"url": "https://micro.mihobu.lol/2023/12/19/bandwagon-hopper-that.html"
+			},
+			{
 				"id": "http://mihobu.micro.blog/2023/12/19/updated-my-social.html",
 				
 				"content_html": "<p>Updated my social media status for December</p>\n<p><a href=\"https://mihobu.lol/socials\">mihobu.lol/socials</a></p>\n",
@@ -18,7 +76,7 @@
 				"id": "http://mihobu.micro.blog/2023/12/18/landed-and-back.html",
 				
 				"content_html": "<p>🛬 Landed and back home! That’s a wrap for 2023 air travel. 24 flights for over 16,000 miles, 9 airports, 2 countries, all on one airline. I’m not sure if that’s a record for me for distance (probably not) but I think it is for segments. Thanks go to <a href=\"https://micro.blog/jmjordan\">@jmjordan</a> for her recent post introducing me to this fun and useful app! I’m happy that I was able to go in and add past flights to my archive!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🛬 Landed and back home! That’s a wrap for 2023 air travel. 24 flights for over 16,000 miles, 9 airports, 2 countries, all on one airline. I’m not sure if that’s a record for me for distance (probably not) but I think it is for segments. Thanks go to [@jmjordan](https://micro.blog/jmjordan) for her recent post introducing me to this fun and useful app! I’m happy that I was able to go in and add past flights to my archive!\n\n<img src=\"uploads/2023/image.png\" width=\"450\" height=\"600\" alt=\"My Flighty (app) passport, showing 24 flights traveled for 16,051 miles, 9 airports, 2 countries, all on one airline.\">\n",
+				"content_text": "🛬 Landed and back home! That’s a wrap for 2023 air travel. 24 flights for over 16,000 miles, 9 airports, 2 countries, all on one airline. I’m not sure if that’s a record for me for distance (probably not) but I think it is for segments. Thanks go to [@jmjordan](https://micro.blog/jmjordan) for her recent post introducing me to this fun and useful app! I’m happy that I was able to go in and add past flights to my archive!\n\n<img src=\"https://cdn.uploads.micro.blog/132676/2023/image.png\" width=\"450\" height=\"600\" alt=\"My Flighty (app) passport, showing 24 flights traveled for 16,051 miles, 9 airports, 2 countries, all on one airline.\">\n",
 				"date_published": "2023-12-18T15:14:29-05:00",
 				"url": "https://micro.mihobu.lol/2023/12/18/landed-and-back.html"
 			},
@@ -26,7 +84,7 @@
 				"id": "http://mihobu.micro.blog/2023/12/17/a-couple-more.html",
 				
 				"content_html": "<p>A couple more NYC pics</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "A couple more NYC pics\n\n<img src=\"uploads/2023/420f0aa06d.jpg\" width=\"600\" height=\"600\" alt=\"Inside Radio City Music Hall, wall sconce seen from above\"><img src=\"uploads/2023/d167477b0f.jpg\" width=\"600\" height=\"600\" alt=\"Times Square\">\n",
+				"content_text": "A couple more NYC pics\n\n<img src=\"https://cdn.uploads.micro.blog/132676/2023/420f0aa06d.jpg\" width=\"600\" height=\"600\" alt=\"Inside Radio City Music Hall, wall sconce seen from above\"><img src=\"https://cdn.uploads.micro.blog/132676/2023/d167477b0f.jpg\" width=\"600\" height=\"600\" alt=\"Times Square\">\n",
 				"date_published": "2023-12-17T18:43:20-05:00",
 				"url": "https://micro.mihobu.lol/2023/12/17/a-couple-more.html",
 				"tags": ["Photography"]
@@ -35,7 +93,7 @@
 				"id": "http://mihobu.micro.blog/2023/12/17/the-human-population.html",
 				
 				"content_html": "<p>The human population is already too big if it can produce two hyper-bozos like this at the same time.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The human population is already too big if it can produce two hyper-bozos like this at the same time.\n\n<img src=\"uploads/2023/ca01b1b666.jpg\" width=\"569\" height=\"600\" alt=\"\">\n",
+				"content_text": "The human population is already too big if it can produce two hyper-bozos like this at the same time.\n\n<img src=\"https://cdn.uploads.micro.blog/132676/2023/ca01b1b666.jpg\" width=\"569\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-17T16:06:22-05:00",
 				"url": "https://micro.mihobu.lol/2023/12/17/the-human-population.html"
 			},
@@ -43,7 +101,7 @@
 				"id": "http://mihobu.micro.blog/2023/12/16/the-empire-state.html",
 				
 				"content_html": "<p>The Empire State Building</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "The Empire State Building\n\n<img src=\"uploads/2023/img-4927.jpeg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2023/7df78597-1d5d-451e-9b93-8edac4246438-554-00000c9c76f69ac2.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "The Empire State Building\n\n<img src=\"https://cdn.uploads.micro.blog/132676/2023/img-4927.jpeg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/132676/2023/7df78597-1d5d-451e-9b93-8edac4246438-554-00000c9c76f69ac2.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-16T18:04:58-05:00",
 				"url": "https://micro.mihobu.lol/2023/12/16/the-empire-state.html"
 			},
