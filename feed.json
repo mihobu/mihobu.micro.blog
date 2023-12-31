@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://mihobu.micro.blog/2023/12/31/here-it-is.html",
+				
+				"content_html": "<p>Here it is, the post you’ve all been waiting for! My final installment of #weeknotes for 2023 This was a work week but we managed to have some fun this week and watch some Christmas movies.</p>\n<p><a href=\"https://mihobu.lol/2023/12/weeknotes-week-52-2023\">mihobu.lol/2023/12/w&hellip;</a></p>\n",
+				"content_text": "Here it is, the post you’ve all been waiting for! My final installment of #weeknotes for 2023 This was a work week but we managed to have some fun this week and watch some Christmas movies.\r\n\r\n[mihobu.lol/2023/12/w...](https://mihobu.lol/2023/12/weeknotes-week-52-2023)\n",
+				"date_published": "2023-12-31T12:15:45-05:00",
+				"url": "https://micro.mihobu.lol/2023/12/31/here-it-is.html",
+				"tags": ["Weeknotes"]
+			},
+			{
+				"id": "http://mihobu.micro.blog/2023/12/29/turn-signals-are.html",
+				
+				"content_html": "<p>Turn signals are overrated.</p>\n<p><a href=\"https://mihobu.lol/2023/12/turn-signals-are-overrated\">mihobu.lol/2023/12/t&hellip;</a></p>\n",
+				"content_text": "Turn signals are overrated.\n\n[mihobu.lol/2023/12/t...](https://mihobu.lol/2023/12/turn-signals-are-overrated)\n",
+				"date_published": "2023-12-29T07:42:33-05:00",
+				"url": "https://micro.mihobu.lol/2023/12/29/turn-signals-are.html"
+			},
+			{
+				"id": "http://mihobu.micro.blog/2023/12/27/week-was-a.html",
+				
+				"content_html": "<p>Week 51 was a quiet week. Caught up on some TV watching, and mostly tried to recover from week 50 while also mentally preparing for week 52.</p>\n<p><a href=\"https://mihobu.lol/2023/12/weeknotes-week-51-2023\">mihobu.lol/2023/12/w&hellip;</a></p>\n<p>#weeknotes</p>\n",
+				"content_text": "Week 51 was a quiet week. Caught up on some TV watching, and mostly tried to recover from week 50 while also mentally preparing for week 52.\n\n[mihobu.lol/2023/12/w...](https://mihobu.lol/2023/12/weeknotes-week-51-2023)\n\n#weeknotes\n",
+				"date_published": "2023-12-27T15:27:51-05:00",
+				"url": "https://micro.mihobu.lol/2023/12/27/week-was-a.html",
+				"tags": ["Weeknotes"]
+			},
+			{
+				"id": "http://mihobu.micro.blog/2023/12/27/canceled-my-directv.html",
+				
+				"content_html": "<p>📺 Canceled my DirecTV Stream subscription, which was costing me a whopping $120/month! I finally realized that most of what I actually consume is available elsewhere and I can live without the rest. Also, picked up Disney+/Hulu bundle for only $20.</p>\n",
+				"content_text": "📺 Canceled my DirecTV Stream subscription, which was costing me a whopping $120/month! I finally realized that most of what I actually consume is available elsewhere and I can live without the rest. Also, picked up Disney+/Hulu bundle for only $20.\n",
+				"date_published": "2023-12-27T07:22:39-05:00",
+				"url": "https://micro.mihobu.lol/2023/12/27/canceled-my-directv.html"
+			},
+			{
 				"id": "http://mihobu.micro.blog/2023/12/25/happy-christmas-im.html",
 				
 				"content_html": "<p>☕️🎄🌦️ Happy Christmas! I’m up early, drinking my coffee, waiting for everyone to wake up. Watching the sun rise and expacting a high temp of 61°F today (with rain likely). Weird weather for December 25th.</p>\n",
@@ -18,7 +52,7 @@
 				"id": "http://mihobu.micro.blog/2023/12/24/good-morning-happy.html",
 				
 				"content_html": "<p>Good morning! Happy Christmas Eve to those who celebrate. It is early here and still dark out, but the coffee is made, everyone else is still asleep, I just finished eating  a gooey cinnamon roll, and now I’m enjoying our tree and scrolling around the Intert00bz. 🎄</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Good morning! Happy Christmas Eve to those who celebrate. It is early here and still dark out, but the coffee is made, everyone else is still asleep, I just finished eating  a gooey cinnamon roll, and now I’m enjoying our tree and scrolling around the Intert00bz. 🎄\n\n<img src=\"uploads/2023/3dc32ab0cf.jpg\" width=\"600\" height=\"600\" alt=\"Christmas tree decorated with colored lights and snowman topper\">\n",
+				"content_text": "Good morning! Happy Christmas Eve to those who celebrate. It is early here and still dark out, but the coffee is made, everyone else is still asleep, I just finished eating  a gooey cinnamon roll, and now I’m enjoying our tree and scrolling around the Intert00bz. 🎄\n\n<img src=\"https://cdn.uploads.micro.blog/132676/2023/3dc32ab0cf.jpg\" width=\"600\" height=\"600\" alt=\"Christmas tree decorated with colored lights and snowman topper\">\n",
 				"date_published": "2023-12-24T06:04:42-05:00",
 				"url": "https://micro.mihobu.lol/2023/12/24/good-morning-happy.html"
 			},
