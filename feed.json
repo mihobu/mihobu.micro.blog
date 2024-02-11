@@ -7,6 +7,41 @@
 	"items": [
 		
 			{
+				"id": "http://mihobu.micro.blog/2024/02/11/i-took-the.html",
+				
+				"content_html": "<p>I took the TTArtisan 50mm f/1.2 out for a spin today</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I took the TTArtisan 50mm f/1.2 out for a spin today\n\n<img src=\"uploads/2024/dscf1775.png\" width=\"600\" height=\"600\" alt=\"Pine tree branches in focus with sunlight filtering through the needles, set against a softly blurred forest background.\"><img src=\"uploads/2024/dscf1779.png\" width=\"600\" height=\"600\" alt=\"A sign stands on a covered area of a park reading &quot;NEWLY PLANTED GRASS SEED PLEASE KEEP OFF.&quot;\"><img src=\"uploads/2024/dscf1780.png\" width=\"600\" height=\"600\" alt=\"A row of tall trees lines a curving sidewalk in a residential neighborhood, casting shadows on a sunny day.\">\n",
+				"date_published": "2024-02-11T15:34:25-05:00",
+				"url": "https://micro.mihobu.lol/2024/02/11/i-took-the.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://mihobu.micro.blog/2024/02/07/new-toy-arrived.html",
+				
+				"content_html": "<p>New toy arrived</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "New toy arrived\n\n<img src=\"uploads/2024/dscf1765.png\" width=\"600\" height=\"600\" alt=\"A grey box labeled &quot;TTARTISAN&quot; rests on a wooden surface, with blurred objects in the background.\">\n",
+				"date_published": "2024-02-07T12:02:18-05:00",
+				"url": "https://micro.mihobu.lol/2024/02/07/new-toy-arrived.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://mihobu.micro.blog/2024/02/07/table-tennis-paddle.html",
+				
+				"content_html": "<p>Table tennis paddle (also, testing AI-generated alt text)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Table tennis paddle (also, testing AI-generated alt text)\n\n<img src=\"uploads/2024/dscf1763.png\" width=\"600\" height=\"600\" alt=\"Red and black table tennis paddle rests on a dark table near a net, suggesting a pause in a game or preparation to play.\">\n",
+				"date_published": "2024-02-07T09:35:38-05:00",
+				"url": "https://micro.mihobu.lol/2024/02/07/table-tennis-paddle.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://mihobu.micro.blog/2024/02/06/its-a-beautiful.html",
+				
+				"content_html": "<p>It’s a beautiful day, the temperature is in the 40s, and my doggo just loves to sit outside in the sunshine!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It’s a beautiful day, the temperature is in the 40s, and my doggo just loves to sit outside in the sunshine!\n\n<img src=\"uploads/2024/img-5297.jpeg\" width=\"600\" height=\"600\" alt=\"black dog sitting in the back yard enjoying the sunshine\">\n",
+				"date_published": "2024-02-06T12:12:10-05:00",
+				"url": "https://micro.mihobu.lol/2024/02/06/its-a-beautiful.html"
+			},
+			{
 				"id": "http://mihobu.micro.blog/2024/02/06/good-morning-time.html",
 				
 				"content_html": "<p>Good morning! Time for my coffee ritual.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -19,7 +54,7 @@
 				"id": "http://mihobu.micro.blog/2024/01/31/bitcam-might-be.html",
 				
 				"content_html": "<p>BitCam might be my new favorite camera app.</p>\n<p><a href=\"https://iconfactory.com/bc.html\">iconfactory.com/bc.html</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "BitCam might be my new favorite camera app.\n\n[iconfactory.com/bc.html](https://iconfactory.com/bc.html)\n\n<img src=\"uploads/2024/94413ee39f.jpg\" width=\"600\" height=\"600\" alt=\"Dithered color photo of my morning coffee in a white CNBC mug with the NBC peacock logo\">\n",
+				"content_text": "BitCam might be my new favorite camera app.\n\n[iconfactory.com/bc.html](https://iconfactory.com/bc.html)\n\n<img src=\"https://cdn.uploads.micro.blog/132676/2024/94413ee39f.jpg\" width=\"600\" height=\"600\" alt=\"Dithered color photo of my morning coffee in a white CNBC mug with the NBC peacock logo\">\n",
 				"date_published": "2024-01-31T05:51:26-05:00",
 				"url": "https://micro.mihobu.lol/2024/01/31/bitcam-might-be.html",
 				"tags": ["Photography"]
@@ -36,7 +71,7 @@
 				"id": "http://mihobu.micro.blog/2024/01/29/just-found-out.html",
 				
 				"content_html": "<p>Just found out I crossed the 200-park threshold to qualify for another #POTA award! #HamRadio #AmateurRadio</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Just found out I crossed the 200-park threshold to qualify for another #POTA award! #HamRadio #AmateurRadio\r\n\n\n<img src=\"uploads/2024/w8mhb-pota-enrubio-hunter.png\" width=\"600\" height=\"463\" alt=\"Award certificate stating that Michael Burkhardt W8MHB has submitted proof of working 200 unique reference areas in the Parks on the Air program, this certificate is hereby presented in recognition of this outstanding achievement.\">\n",
+				"content_text": "Just found out I crossed the 200-park threshold to qualify for another #POTA award! #HamRadio #AmateurRadio\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/132676/2024/w8mhb-pota-enrubio-hunter.png\" width=\"600\" height=\"463\" alt=\"Award certificate stating that Michael Burkhardt W8MHB has submitted proof of working 200 unique reference areas in the Parks on the Air program, this certificate is hereby presented in recognition of this outstanding achievement.\">\n",
 				"date_published": "2024-01-29T16:10:48-05:00",
 				"url": "https://micro.mihobu.lol/2024/01/29/just-found-out.html",
 				"tags": ["Ham Radio"]
@@ -45,7 +80,7 @@
 				"id": "http://mihobu.micro.blog/2024/01/29/after-several-months.html",
 				
 				"content_html": "<p>After several months of inactivity, I’ve been getting back on the air this month. It seemed like a good time to reset the map too. So far in 2024, I’ve completed 56 QSOs for 50 distinct grid squares. #AmateurRadio #HamRadio</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "After several months of inactivity, I’ve been getting back on the air this month. It seemed like a good time to reset the map too. So far in 2024, I’ve completed 56 QSOs for 50 distinct grid squares. #AmateurRadio #HamRadio\n\n<img src=\"uploads/2024/grid-square-map-2024-01-29.jpg\" width=\"600\" height=\"597\" alt=\"Great circle map projection centered on Columbus Ohio, showing markers representing 50 distinct Maidenhead grid squares. 41 of the markers are stars, indicating that the grid square was new this week.\">\n",
+				"content_text": "After several months of inactivity, I’ve been getting back on the air this month. It seemed like a good time to reset the map too. So far in 2024, I’ve completed 56 QSOs for 50 distinct grid squares. #AmateurRadio #HamRadio\n\n<img src=\"https://cdn.uploads.micro.blog/132676/2024/grid-square-map-2024-01-29.jpg\" width=\"600\" height=\"597\" alt=\"Great circle map projection centered on Columbus Ohio, showing markers representing 50 distinct Maidenhead grid squares. 41 of the markers are stars, indicating that the grid square was new this week.\">\n",
 				"date_published": "2024-01-29T16:06:12-05:00",
 				"url": "https://micro.mihobu.lol/2024/01/29/after-several-months.html",
 				"tags": ["Ham Radio"]
