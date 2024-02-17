@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://mihobu.micro.blog/2024/02/17/rainy-day-headed.html",
+				
+				"content_html": "<p>Rainy day, headed out to do some cool indoor stuff</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Rainy day, headed out to do some cool indoor stuff\n\n<img src=\"uploads/2024/a40ded6216.jpg\" width=\"600\" height=\"600\" alt=\"Raindrops streak across a window, blurring the trees and sky behind it.\">\n",
+				"date_published": "2024-02-17T10:01:02-05:00",
+				"url": "https://micro.mihobu.lol/2024/02/17/rainy-day-headed.html"
+			},
+			{
+				"id": "http://mihobu.micro.blog/2024/02/14/hey-there-friends.html",
+				
+				"content_html": "<p>Hey there, friends who post both to MIcro.blog and another blog. What is your &ldquo;rule&rdquo; for posting to one or the other (or both)? Micro.blog posts aren&rsquo;t necessarily &ldquo;micro&rdquo; in size, so where&rsquo;s the line? I&rsquo;m trying to figure out where/how Mb fits into my own online &ldquo;strategy&rdquo;</p>\n",
+				"content_text": "Hey there, friends who post both to MIcro.blog and another blog. What is your \"rule\" for posting to one or the other (or both)? Micro.blog posts aren't necessarily \"micro\" in size, so where's the line? I'm trying to figure out where/how Mb fits into my own online \"strategy\"\n",
+				"date_published": "2024-02-14T11:48:14-05:00",
+				"url": "https://micro.mihobu.lol/2024/02/14/hey-there-friends.html"
+			},
+			{
+				"id": "http://mihobu.micro.blog/2024/02/11/settling-in-to.html",
+				
+				"content_html": "<p>Settling in to watch the 58th straight Super Bowl that the Cleveland Browns have not played in.</p>\n",
+				"content_text": "Settling in to watch the 58th straight Super Bowl that the Cleveland Browns have not played in.\n",
+				"date_published": "2024-02-11T18:07:17-05:00",
+				"url": "https://micro.mihobu.lol/2024/02/11/settling-in-to.html"
+			},
+			{
 				"id": "http://mihobu.micro.blog/2024/02/11/i-took-the.html",
 				
 				"content_html": "<p>I took the TTArtisan 50mm f/1.2 out for a spin today</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -28,7 +52,7 @@
 				"id": "http://mihobu.micro.blog/2024/02/07/table-tennis-paddle.html",
 				
 				"content_html": "<p>Table tennis paddle (also, testing AI-generated alt text)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Table tennis paddle (also, testing AI-generated alt text)\n\n<img src=\"uploads/2024/dscf1763.png\" width=\"600\" height=\"600\" alt=\"Red and black table tennis paddle rests on a dark table near a net, suggesting a pause in a game or preparation to play.\">\n",
+				"content_text": "Table tennis paddle (also, testing AI-generated alt text)\n\n<img src=\"https://cdn.uploads.micro.blog/132676/2024/dscf1763.png\" width=\"600\" height=\"600\" alt=\"Red and black table tennis paddle rests on a dark table near a net, suggesting a pause in a game or preparation to play.\">\n",
 				"date_published": "2024-02-07T09:35:38-05:00",
 				"url": "https://micro.mihobu.lol/2024/02/07/table-tennis-paddle.html",
 				"tags": ["Photography"]
@@ -37,7 +61,7 @@
 				"id": "http://mihobu.micro.blog/2024/02/06/its-a-beautiful.html",
 				
 				"content_html": "<p>It’s a beautiful day, the temperature is in the 40s, and my doggo just loves to sit outside in the sunshine!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s a beautiful day, the temperature is in the 40s, and my doggo just loves to sit outside in the sunshine!\n\n<img src=\"uploads/2024/img-5297.jpeg\" width=\"600\" height=\"600\" alt=\"black dog sitting in the back yard enjoying the sunshine\">\n",
+				"content_text": "It’s a beautiful day, the temperature is in the 40s, and my doggo just loves to sit outside in the sunshine!\n\n<img src=\"https://cdn.uploads.micro.blog/132676/2024/img-5297.jpeg\" width=\"600\" height=\"600\" alt=\"black dog sitting in the back yard enjoying the sunshine\">\n",
 				"date_published": "2024-02-06T12:12:10-05:00",
 				"url": "https://micro.mihobu.lol/2024/02/06/its-a-beautiful.html"
 			},
@@ -45,7 +69,7 @@
 				"id": "http://mihobu.micro.blog/2024/02/06/good-morning-time.html",
 				
 				"content_html": "<p>Good morning! Time for my coffee ritual.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Good morning! Time for my coffee ritual.\n\n<img src=\"uploads/2024/img-5284.jpeg\" width=\"600\" height=\"600\" alt=\"coffee beans in the grinder\"><img src=\"uploads/2024/img-5286.jpeg\" width=\"600\" height=\"600\" alt=\"coffee grounds in the basket\"><img src=\"uploads/2024/img-5287.jpeg\" width=\"600\" height=\"600\" alt=\"freshly brewed coffee streaming from the basket to the pot\"><img src=\"uploads/2024/img-5288.jpeg\" width=\"600\" height=\"600\" alt=\"coffee in my favorite &quot;Life is Good&quot; mug, ready to drink\">\n",
+				"content_text": "Good morning! Time for my coffee ritual.\n\n<img src=\"https://cdn.uploads.micro.blog/132676/2024/img-5284.jpeg\" width=\"600\" height=\"600\" alt=\"coffee beans in the grinder\"><img src=\"https://cdn.uploads.micro.blog/132676/2024/img-5286.jpeg\" width=\"600\" height=\"600\" alt=\"coffee grounds in the basket\"><img src=\"https://cdn.uploads.micro.blog/132676/2024/img-5287.jpeg\" width=\"600\" height=\"600\" alt=\"freshly brewed coffee streaming from the basket to the pot\"><img src=\"https://cdn.uploads.micro.blog/132676/2024/img-5288.jpeg\" width=\"600\" height=\"600\" alt=\"coffee in my favorite &quot;Life is Good&quot; mug, ready to drink\">\n",
 				"date_published": "2024-02-06T05:15:16-05:00",
 				"url": "https://micro.mihobu.lol/2024/02/06/good-morning-time.html",
 				"tags": ["Photography"]
